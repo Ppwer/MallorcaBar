@@ -64,6 +64,13 @@
 /*-------------------------------*/
 /*     Sidebar nav styles        */
 /*-------------------------------*/
+.sidebar-brand {
+    margin-bottom: 50px;
+}
+
+.sidebar-brand img {
+    padding: 0;
+}
 
 .sidebar-nav {
     position: absolute;
@@ -115,7 +122,6 @@
             display: block;
             color: #ddd;
             text-decoration: none;
-            padding: 10px 15px 10px 30px;
         }
 
             .sidebar-nav li a:hover,
