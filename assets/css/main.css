@@ -1,5 +1,6 @@
 ﻿body {
-    font-family: Arial, sans-seri;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
 }
 
 .section-one {
@@ -152,6 +153,10 @@
 
 .hamburger.is-open {
     top: -110px;
+}
+
+.hamburger.is-open body {
+    overflow: hidden;
 }
 
     .hamburger:hover,
