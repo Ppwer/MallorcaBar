@@ -1,5 +1,6 @@
 ﻿body {
-    font-family: Arial, sans-seri;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
 }
 
 .section-one {
@@ -154,6 +155,10 @@
     top: -110px;
 }
 
+.hamburger.is-open body {
+    overflow: hidden;
+}
+
     .hamburger:hover,
     .hamburger:focus,
     .hamburger:active {outline: none;}
@@ -271,22 +276,6 @@
         -webkit-transition: all .35s ease-in-out;
         transition: all .35s ease-in-out;
     }
-
-/*-------------------------------*/
-/*            Overlay            */
-/*-------------------------------*/
-
-.overlay {
-    display: none;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(250,250,250,.8);
-    z-index: 1;
-}
 
 /*#endregion*/
 
