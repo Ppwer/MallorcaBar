@@ -29,6 +29,19 @@
     text-align: right;
 }
 
+/*#region PRISTABEL*/
+
+table {
+    display: inline-block;
+}
+
+td {
+    border: 1px solid #000;
+    padding: 5px;
+}
+
+/*#endregion*/
+
 /*#region menu-bar*/
 
 /*-------------------------------*/
