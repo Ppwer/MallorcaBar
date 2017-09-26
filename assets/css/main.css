@@ -23,9 +23,43 @@
     color: lightgray;
 }
 
-.section-three h1{
-    text-align: right;
+    .section-three h1 {
+        text-align: right;
+    }
+
+/*#region gallery */
+
+#gallery {
+    background-color: #a0958f;
 }
+
+    #gallery h3 {
+        color: #000;
+    }
+
+    #gallery a {
+        color: #333;
+        text-decoration: none;
+    }
+
+        #gallery a:hover {
+            text-decoration: underline;
+        }
+
+    #gallery figure {
+        padding: 17px 0px 17px 0px;
+        margin: 0px 0px 30px 0px;
+        background-color: white;
+        box-shadow: 5px 7px 10px #656565;
+    }
+
+        #gallery figure img {
+            display: block;
+            margin: auto;
+            width: 80%;
+        }
+
+/*#endregion */
 
 /*#region PRISTABEL*/
 
