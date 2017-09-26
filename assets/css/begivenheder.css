@@ -1,0 +1,17 @@
+﻿body {
+    background-color: #a0958f;
+}
+
+.events-top{
+    text-align: center;
+    color: lightgrey;
+}
+
+.thumbnail {
+    padding:0;
+}
+
+.btn-default:hover{
+    background-color: #954858;
+    color: lightgrey;
+}
