@@ -1,0 +1,18 @@
+﻿body {
+  text-align: center; 
+}
+
+html, body{
+    width: 100%;
+}
+
+table{
+    margin: 0 auto;
+}
+
+.tabel th{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
