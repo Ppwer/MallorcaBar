@@ -16,11 +16,13 @@
 .section-two {
     background-color: #a0958f;
     color: #000;
+    padding-bottom: 20px;
 }
 
 .section-three {
     background-color: #635353;
     color: lightgray;
+    padding-bottom: 20px;
 }
 
     .section-three h1 {
