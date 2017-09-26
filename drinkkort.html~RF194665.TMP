@@ -11,9 +11,9 @@
 
     <!-- #region section one -->
     <section class="row section-one">
-            <article class="col-md-12">
-                <h1>MALLORCA BAR</h1>
-            </article>
+        <article class="col-md-12">
+            <h1>MALLORCA BAR</h1>
+        </article>
     </section>
 
     <!-- #endregion -->
@@ -46,7 +46,6 @@
         <!-- /#page-content-wrapper -->
     </div><!-- /#wrapper -->
     <!-- #endregion -->
-
     <!-- #region PRISTABEL -->
 
     <table>
@@ -137,8 +136,102 @@
         </tr>
     </table>
 
-    <!-- #endregion -->
+    <table>
+        <tr><th>SPIRITUS - ALMINDELIG</th></tr>
+        <tr>
+            <td>Husets Gin, Vodka, Whisky, 3 cl</td>
+            <td>kr. 18,00</td>
+        </tr>
+        <tr>
+            <td>Husets spiritus, 1/1 fl. incl. 4 vand</td>
+            <td>kr. 350,00</td>
+        </tr>
+        <tr>
+            <td>Alm. spiritus, 1/1 fl. incl. 4 vand</td>
+            <td>kr. 450,00</td>
+        </tr>
+        <tr>
+            <td>Gin, Gordons, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+        <tr>
+            <td>Rom, Barcardi, 2 cl</td>
+            <td>kr. 17,00</td>
+        <tr>
+            <td>Rom, Barcardi Golden, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+        <tr>
+            <td>Rom, Havana Club 5 year, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+        <tr>
+            <td>Rom, Havana Club Silver Dry, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+        <tr>
+            <td>Vodka, Smirnoff, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+        <tr>
+            <td>Vodka, Smirnoff Citrus, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Ballantines,  cl</td>
+            <td>kr. 18,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Famouse Grouse, 2 cl</td>
+            <td>kr. 18,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Jack Daniels, 2 cl</td>
+            <td>kr. 18,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Southern Comfort, 2 cl</td>
+            <td>kr. 18,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Jameson, 2 cl</td>
+            <td>kr. 18,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Tullamore, 2 cl</td>
+            <td>kr. 18,00</td>
+        </tr>
+        <tr>
+            <td>Pernod, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+        <tr>
+            <td>Tequila, 2 cl</td>
+            <td>kr. 17,00</td>
+        </tr>
+    </table>
 
+    <table>
+        <tr><th>SPIRITUS - LUXUS</th></tr>
+        <tr>
+            <td>Whisky, Glenfiddich Malt, 2 cl</td>
+            <td>kr. 22,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Chivas Regal, 2 cl</td>
+            <td>kr. 25,00</td>
+        </tr>
+        <tr>
+            <td>Whisky, Dimple, 2 cl</td>
+            <td>kr. 22,00</td>
+        </tr>
+        <tr>
+            <td>Rom, Havana Club 7 year, 2 cl</td>
+            <td>kr. 20,00</td>
+        </tr>
+    </table>
+
+    <!-- #endregion -->
     <!-- #region footer -->
     <section class="row">
         <footer>
