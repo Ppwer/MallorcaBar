@@ -10,6 +10,9 @@
 .thumbnail {
     padding:0;
 }
+.btn-default{
+    margin-top: 25px;
+}
 
 .btn-default:hover{
     background-color: #954858;

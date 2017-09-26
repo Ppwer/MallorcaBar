@@ -1,6 +1,7 @@
 ﻿body {
     font-family: 'Quicksand', sans-serif;
     overflow-x: hidden;
+    padding-bottom: 10px;
 }
 
 .section-one {
